@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{0D0E975F-AC9B-0086-3D79-4FAC6542399F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Launcher.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CoreGame.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/ConveyorBelt.cs" Line="11" Column="5" />
+      <File FileName="Assets/Scripts/Fish.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Level.cs" Line="7" Column="2" />
+      <File FileName="Assets/Scripts/FishCollision.cs" Line="9" Column="1" />
+      <File FileName="Assets/Scripts/GroundCollision.cs" Line="17" Column="42" />
+      <File FileName="Assets/Scripts/Launcher.cs" Line="7" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
